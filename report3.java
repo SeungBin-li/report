@@ -182,7 +182,6 @@ class Exercise4_10 {
             }else{
                 System.out.println("더 작은 수를 입력하세요");
             }
-
         } while(true); //무한반복문 	
     } // end of main 
 } // end of class  
